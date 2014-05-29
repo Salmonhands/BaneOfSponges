@@ -1,0 +1,12 @@
+[
+{
+  "modid": "BaneOfSpongesID",
+  "name": "Bane of Sponges",
+  "description": "Makes shovels super effective against OpenBlocks sponges",
+  "version": "1.0.0",
+  "authorList": [
+  "Salmonhands"
+  ]
+  
+}
+]
